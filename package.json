@@ -1,16 +1,17 @@
 {
-	"author": "herostoky",
-	"name": "fcc-learn-npm-package-json",
-	"description": "A project that is used to complete My Backend Challenges boilerplate by freecodecamp",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+  "author": "herostoky",
+  "name": "fcc-learn-npm-package-json",
+  "description": "A project that is used to complete My Backend Challenges boilerplate by freecodecamp",
+  "keywords": ["freecodecamp", "npm", "node", "backend"],
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  }
 }
