@@ -2,6 +2,7 @@
   "author": "herostoky",
   "name": "fcc-learn-npm-package-json",
   "description": "A project that is used to complete My Backend Challenges boilerplate by freecodecamp",
+  "version": "1.0.0",
   "keywords": ["freecodecamp", "npm", "node", "backend"],
   "license": "MIT",
   "dependencies": {
